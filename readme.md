@@ -10,6 +10,9 @@ Then start all tests with the following command:
 ```sh
 npm run cypress:run
 ```
+
+## Test report
+
 The test report will be available in the `/reports/index.html` file. It will contain detailed test reports highlighting the execution results, including both passed and failed tests. There should be one intentionally failed test; for this test an embedded screenshot will be provided. All other tests should pass.
 
 ## Items to review
